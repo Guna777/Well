@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_Calendar.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_appbuilder.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_campaigns.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_candidates.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_cases.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_cashmanagement.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_competitors.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_contacts.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_contracts.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_creditnotes.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_crninsights.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_crn.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_customerpayments.png'height='558' width='1045'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_customers.png'height='558' width='1045'/><br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="134319" started-at="2019-09-14T15:03:34Z" finished-at="2019-09-14T15:05:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="134319" started-at="2019-09-14T15:03:34Z" finished-at="2019-09-14T15:05:48Z">
+      <class name="apptivo.Login">
+        <test-method status="PASS" signature="userLogin()[pri:1, instance:apptivo.Login@3a44431a]" name="userLogin" duration-ms="14898" started-at="2019-09-14T15:03:34Z" finished-at="2019-09-14T15:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method status="PASS" signature="CalendarApploading()[pri:2, instance:apptivo.Login@3a44431a]" name="CalendarApploading" duration-ms="11612" started-at="2019-09-14T15:03:49Z" finished-at="2019-09-14T15:04:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_Calendar.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CalendarApploading -->
+        <test-method status="PASS" signature="AppbuilderApploading()[pri:4, instance:apptivo.Login@3a44431a]" name="AppbuilderApploading" duration-ms="9743" started-at="2019-09-14T15:04:00Z" finished-at="2019-09-14T15:04:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_appbuilder.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AppbuilderApploading -->
+        <test-method status="PASS" signature="CampaignsApploading()[pri:5, instance:apptivo.Login@3a44431a]" name="CampaignsApploading" duration-ms="11255" started-at="2019-09-14T15:04:10Z" finished-at="2019-09-14T15:04:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_campaigns.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CampaignsApploading -->
+        <test-method status="PASS" signature="CandidatesApploading()[pri:6, instance:apptivo.Login@3a44431a]" name="CandidatesApploading" duration-ms="6197" started-at="2019-09-14T15:04:21Z" finished-at="2019-09-14T15:04:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_candidates.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CandidatesApploading -->
+        <test-method status="PASS" signature="CasesApploading()[pri:7, instance:apptivo.Login@3a44431a]" name="CasesApploading" duration-ms="7220" started-at="2019-09-14T15:04:27Z" finished-at="2019-09-14T15:04:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_cases.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CasesApploading -->
+        <test-method status="PASS" signature="CashmanagementApploading()[pri:8, instance:apptivo.Login@3a44431a]" name="CashmanagementApploading" duration-ms="7588" started-at="2019-09-14T15:04:35Z" finished-at="2019-09-14T15:04:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_cashmanagement.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CashmanagementApploading -->
+        <test-method status="PASS" signature="CompetitorstApploading()[pri:9, instance:apptivo.Login@3a44431a]" name="CompetitorstApploading" duration-ms="7667" started-at="2019-09-14T15:04:42Z" finished-at="2019-09-14T15:04:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_competitors.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CompetitorstApploading -->
+        <test-method status="PASS" signature="ContactsApploading()[pri:10, instance:apptivo.Login@3a44431a]" name="ContactsApploading" duration-ms="7459" started-at="2019-09-14T15:04:50Z" finished-at="2019-09-14T15:04:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_contacts.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ContactsApploading -->
+        <test-method status="PASS" signature="ContractsApploading()[pri:11, instance:apptivo.Login@3a44431a]" name="ContractsApploading" duration-ms="8079" started-at="2019-09-14T15:04:57Z" finished-at="2019-09-14T15:05:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_contracts.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ContractsApploading -->
+        <test-method status="PASS" signature="CreditnotesApploading()[pri:12, instance:apptivo.Login@3a44431a]" name="CreditnotesApploading" duration-ms="8744" started-at="2019-09-14T15:05:05Z" finished-at="2019-09-14T15:05:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_creditnotes.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreditnotesApploading -->
+        <test-method status="PASS" signature="CrninsightsApploading()[pri:13, instance:apptivo.Login@3a44431a]" name="CrninsightsApploading" duration-ms="7937" started-at="2019-09-14T15:05:14Z" finished-at="2019-09-14T15:05:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_crninsights.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CrninsightsApploading -->
+        <test-method status="PASS" signature="CrnApploading()[pri:14, instance:apptivo.Login@3a44431a]" name="CrnApploading" duration-ms="7896" started-at="2019-09-14T15:05:22Z" finished-at="2019-09-14T15:05:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_crn.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CrnApploading -->
+        <test-method status="PASS" signature="CustomerpaymentsApploading()[pri:15, instance:apptivo.Login@3a44431a]" name="CustomerpaymentsApploading" duration-ms="8925" started-at="2019-09-14T15:05:30Z" finished-at="2019-09-14T15:05:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_customerpayments.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CustomerpaymentsApploading -->
+        <test-method status="PASS" signature="CustomerApploading()[pri:16, instance:apptivo.Login@3a44431a]" name="CustomerApploading" duration-ms="9051" started-at="2019-09-14T15:05:39Z" finished-at="2019-09-14T15:05:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='/Suite/ApploadingSS/ALSS_customers.png'height='558' width='1045'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CustomerApploading -->
+      </class> <!-- apptivo.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
